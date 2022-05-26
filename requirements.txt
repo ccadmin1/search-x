@@ -1,7 +1,7 @@
 pyromod
 pymongo
 umongo
-pyrogram
+pyrogram==1.4.16
 TgCrypto
 dnspython
 aiofiles
